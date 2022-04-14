@@ -1,12 +1,12 @@
 # Python-Inadimplencia-Renda-Desemprego-Brasil-2021
 
-Este foi um projeto de Mestrado com o intuito de desenvolver uma analise apresentada em pela linguagem Python.
+Este foi um projeto de Mestrado com o intuito de desenvolver uma analise apresentada em linguagem Python.
 
-A Pesquisa de Endividamento e Inadimplência do Consumidor (PEIC), relata que em 2021, houve um aumento recorde onde,
-mais de 70,9 % das famílias brasileiras estariam, o endividadas. 
+A Pesquisa de Endividamento e Inadimplência do Consumidor (PEIC), relatam que em 2021, houve um aumento recorde onde,
+mais de 70,9 % das famílias brasileiras estariam endividadas. 
 
-Analise dos dados das pesquisas e como as características socioeconômicas das variáveis demográficas como 
-as taxas de desemprego e renda podem se relacionar aos altos ídices.
+Foram utilizados dados publicos de pesquisas exploratórias com características socioeconômicas das variáveis demográficas utilizadas, sendo 
+as taxas de desemprego e renda relaionadas aos altos índices de Inadimplência.
 
 ![image](https://user-images.githubusercontent.com/96588272/163463041-a26c584d-f3bf-4076-b9ab-71d529cbbd8f.png)
 
